@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arkabairagi.github.io/arkabairagi1.github.io/sitemap.xml
+Sitemap: https://arkabairagi.github.io/arkabairagi1/sitemap.xml
